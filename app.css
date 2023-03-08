@@ -1,0 +1,14 @@
+#cont{
+    position: relative;
+
+}
+
+.stack{
+    position: absolute;
+
+}
+
+.newCard{
+    z-index: 9;
+
+}
